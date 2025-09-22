@@ -12,3 +12,5 @@ whoami
 hello
 pwn.college{c7Sgk-s3lEGOPT4bhxjr9Q8M4Ji.QX3YjM1wiN2gjNzEzW}
 ```
+## What I learned
+The whoami command prints the username of the user.
