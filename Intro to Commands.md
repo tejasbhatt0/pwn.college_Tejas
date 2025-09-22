@@ -1,6 +1,4 @@
-# Challenge Name
-Intro to Commands
-
+# Intro to Commands
 Write whoami, hello
 
 ## My solve
