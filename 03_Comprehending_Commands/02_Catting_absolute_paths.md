@@ -1,0 +1,21 @@
+# Catting Absolute Paths
+What the challenge is about / expects from you.
+
+## My solve
+**Flag:** `pwn.college{cx35msVpG-vkQ1ihHCAdjvQzaSh.QX5ETO0wiN2gjNzEzW}`
+
+Invoked "cat" command with the the absolute path to the flag "/flag"
+
+```bash
+hacker@commands~catting-absolute-paths:~$ cat /flag
+pwn.college{cx35msVpG-vkQ1ihHCAdjvQzaSh.QX5ETO0wiN2gjNzEzW}
+```
+
+## What I learned
+I learned that the "cat" command can also be invoked by using the file's absolute path as it's argument.
+
+## Incorrect tangents
+N.A.
+
+## References
+N.A.
