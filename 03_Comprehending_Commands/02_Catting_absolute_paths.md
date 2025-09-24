@@ -1,5 +1,5 @@
 # Catting Absolute Paths
-What the challenge is about / expects from you.
+To learn that the "cat" command can also accept the absolute path of a file as it's argument to read it.
 
 ## My solve
 **Flag:** `pwn.college{cx35msVpG-vkQ1ihHCAdjvQzaSh.QX5ETO0wiN2gjNzEzW}`
