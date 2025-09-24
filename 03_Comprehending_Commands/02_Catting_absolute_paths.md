@@ -4,7 +4,7 @@ To learn that the "cat" command can also accept the absolute path of a file as i
 ## My solve
 **Flag:** `pwn.college{cx35msVpG-vkQ1ihHCAdjvQzaSh.QX5ETO0wiN2gjNzEzW}`
 
-Invoked "cat" command with the the absolute path to the flag "/flag"
+Invoked "cat" command with the the absolute path to the flag "/flag" as it's argument.
 
 ```bash
 hacker@commands~catting-absolute-paths:~$ cat /flag
