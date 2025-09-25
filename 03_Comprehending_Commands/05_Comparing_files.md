@@ -8,7 +8,7 @@ I used "diff" with "/challenge/decoys_only.txt" and "/challenge/decoys_and_real.
 
 ```bash
 hacker@commands~comparing-files:~$ diff /challenge/decoys_only.txt /challenge/decoys_and_real.txt
-98a99
+37a38
 > pwn.college{coTtkHNWqV4rzs6qpRqj7bd1BSe.01MwMDOxwiN2gjNzEzW}
 ```
 
